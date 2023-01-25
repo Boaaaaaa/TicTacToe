@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\bin\Debug\BImAssignment1.exe.config
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\bin\Debug\BImAssignment1.exe
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\bin\Debug\BImAssignment1.pdb
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\obj\Debug\BImAssignment1.TicTacToeFrom.resources
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\obj\Debug\BImAssignment1.Properties.Resources.resources
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\obj\Debug\BImAssignment1.exe
+\\Mac\Home\Desktop\Conestoga College\Level 3\PROG2370\Assignment\Assignment1\BImAssignment1\TicTacToe\obj\Debug\BImAssignment1.pdb
